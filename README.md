@@ -1,5 +1,5 @@
 # caller_id.sh
-Web-API for [Caller ID](https://vk.com/called_id) an vk application to identify phone number
+Web-API for [Caller ID](https://vk.com/called_id) an vk service to identify phone number
 
 ## Example
 ```bash
